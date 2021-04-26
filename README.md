@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @1aman1, I have been active here long ago, 
 - 👀 I’m interested in knowing more about git...
-- 🌱 I’m currently learning git - AWS CLI...
+- 🌱 I’m currently learning git - AWS CLI & more.
+-     I'll be syncing my work this moment onwards. 
 - 📫 How to reach me amangupta@outlook.com
 
 <!---
