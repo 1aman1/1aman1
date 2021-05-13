@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1aman1, I have been active here previously but didn't really soak any git potential, 
-- 👀 I’m currently learning git - AWS CLI & more.
-- 🌱 Sharing the same stuff here as well.
+- 👀 This time I’m learning git, awscli, amznlnx, & lot more.
+- 🌱 Sharing the same stuff here as well the git way.
 - 📫 How to reach me amangupta@outlook.com
 
 <!---
