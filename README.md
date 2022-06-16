@@ -1,10 +1,10 @@
 👋 Hi, __I’m aman.__ 
 =============
 
-I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & working into it a lot more :airplane:. 
+I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & working into it for a lot more :airplane:. 
 ---------------
 
-__My work/*non work* experiences include__
+__My work/*non work* experiences cover__ :-
 
 
 <details>
@@ -43,26 +43,31 @@ __My work/*non work* experiences include__
         <p>
             :star2:  gvim <br />
             :star2:  MS Visual Code <br /> 
-            :heavy_check_mark:  MS Visual Studio C
+            :heavy_check_mark:  MS Visual Studio C <br /> 
+            :star:  git/bitbucket <br /> 
+            :star2:  GDB 
         </p>
 </details>
 
 <details>
-    <summary>Auxillary stuff like</summary>
+    <summary>Auxillary tools & stuff like</summary>
         <p>
             :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM <br />
-            :heavy_check_mark:  Docker :heavy_plus_sign: kubernetes <br />
-            :heavy_check_mark:  MongoDB, postgresql, Redis  <br />
-            :heavy_check_mark:  amazon-linux2, ubuntu <br />
-            :heavy_check_mark:  jenkins  <br />
+            :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
+            :heavy_check_mark:  Docker :heavy_plus_sign: Kubernetes <br />
+            :heavy_check_mark:  MongoDB, Postgresql, Redis  <br />
+            :heavy_check_mark:  Nginx  <br />
+            :heavy_check_mark:  Jenkins  <br />
             :star2:  Technical documentation
         </p>
 </details>
 
 
-📫Feel free to open any :notebook: and browse through by clicking on any active repo below
+📫 You're most welcome to browse and explore through any :notebook: by clicking on any active/legacy repo below
 
-👀 How to reach me - amangupta@outlook.com
+:point_left: My LinkedIn profile will take you to some blogs I have authored.
+
+👀 Any query/suggestion floats your mind, this is how you reach me - amangupta@outlook.com
 
 <!---
 1aman1/1aman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
