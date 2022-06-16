@@ -1,7 +1,7 @@
 👋 Hi, __I’m aman.__ 
 =============
 
-I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud~AWS, Automation & working into it a lot more :airplane:. 
+I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & working into it a lot more :airplane:. 
 ---------------
 
 __My work/*non work* experiences include__
@@ -27,7 +27,7 @@ __My work/*non work* experiences include__
 </details>
 
 <details>
-    <summary>Concepts & Specific Technicals</summary>
+    <summary>Concepts & Specific Technicals:books: </summary>
         <p>
             :star2:  Data Structure & Algorithms <br />
             :star:  Design Patterns <br />
@@ -39,7 +39,7 @@ __My work/*non work* experiences include__
 </details>
 
 <details>
-    <summary>IDEs</summary>
+    <summary>IDEs, Version Control & Debugger</summary>
         <p>
             :star2:  gvim <br />
             :star2:  MS Visual Code <br /> 
@@ -48,25 +48,26 @@ __My work/*non work* experiences include__
 </details>
 
 <details>
-    <summary>supporting tools</summary>
+    <summary>Auxillary stuff like</summary>
         <p>
             :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM <br />
-            :heavy_check_mark:  mongoDB, postgresql, redis  <br />
-            :star2:  Technical documentation  <br />
-            :heavy_check_mark:  amazon-linux2, ubuntu<br />
-            :heavy_check_mark:  docker :heavy_plus_sign: kubernetes <br />
-            :heavy_check_mark:  jenkins
+            :heavy_check_mark:  Docker :heavy_plus_sign: kubernetes <br />
+            :heavy_check_mark:  MongoDB, postgresql, Redis  <br />
+            :heavy_check_mark:  amazon-linux2, ubuntu <br />
+            :heavy_check_mark:  jenkins  <br />
+            :star2:  Technical documentation
         </p>
 </details>
 
 
-📫Feel free to open any of the :notebook: and browse through by clicking on any active repo below
+📫Feel free to open any :notebook: and browse through by clicking on any active repo below
 
 👀 How to reach me - amangupta@outlook.com
 
-🌱 think device free & :recycle:
 <!---
 1aman1/1aman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ****
+
+🌱 think device free & make habit for :recycle:
