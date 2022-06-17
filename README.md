@@ -52,7 +52,7 @@ __My work/*non work* experiences cover__ :-
 <details>
     <summary>Auxillary tools & stuff like</summary>
         <p>
-            :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM <br />
+            :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM, awscli-v1&v2 <br />
             :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
             :heavy_check_mark:  Docker :heavy_plus_sign: Kubernetes <br />
             :heavy_check_mark:  MongoDB, Postgresql, Redis  <br />
@@ -65,7 +65,7 @@ __My work/*non work* experiences cover__ :-
 
 📫 You're most welcome to browse and explore through any :notebook: by clicking on any active/legacy repo below
 
-:point_left: My LinkedIn profile will take you to some blogs I have authored.
+:point_left: My LinkedIn profile will take you to some blogs that I have authored.
 
 👀 Any query/suggestion floats your mind, this is how you reach me - amangupta@outlook.com
 
