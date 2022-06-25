@@ -19,7 +19,7 @@ __My work/*non work* experiences cover__ :-
     <summary>Scripting Languages</summary>
         <p>
             :heavy_check_mark:  Python<br />
-            :heavy_check_mark:  JS <br />
+            :heavy_check_mark:  NodeJS <br />
             :heavy_check_mark:  bash <br />
             :heavy_check_mark:  awk <br /> 
             :heavy_check_mark:  sed 
