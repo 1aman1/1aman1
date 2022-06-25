@@ -50,7 +50,7 @@ __My work/*non work* experiences cover__ :-
 </details>
 
 <details>
-    <summary>Auxillary tools & stuff like</summary>
+    <summary>Auxillary necessities & stuff like</summary>
         <p>
             :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM, awscli-v1&v2 <br />
             :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
@@ -58,6 +58,7 @@ __My work/*non work* experiences cover__ :-
             :heavy_check_mark:  MongoDB, Postgresql, Redis  <br />
             :heavy_check_mark:  Nginx  <br />
             :heavy_check_mark:  Jenkins  <br />
+            :heavy_check_mark:  JIRA  <br />
             :star2:  Technical documentation
         </p>
 </details>
