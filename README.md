@@ -1,6 +1,7 @@
 👋 Hi, __I’m aman.__ 
 =============
 
+
 I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & working into it for a lot more :airplane:. 
 ---------------
 
@@ -76,6 +77,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ****
 
-![snake gif](https://github.com/1aman1/1aman1/blob/main/utils/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/1aman1/1aman1/blob/main/utils/github-contribution-grid-snake.svg)
 
 ****
