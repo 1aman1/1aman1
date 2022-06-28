@@ -75,5 +75,3 @@ __My work/*non work* experiences cover__ :-
 You can click the Preview link to take a look at your changes.
 --->
 ****
-
-🌱 think device free & make habit for :recycle:
