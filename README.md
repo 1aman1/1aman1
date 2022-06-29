@@ -88,6 +88,3 @@ __My work/*non work* experiences cover__ :-
 1aman1/1aman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-![snake gif](https://github.com/1aman1/1aman1/blob/main/utils/github-contribution-grid-snake.svg)
