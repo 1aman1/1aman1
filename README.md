@@ -8,7 +8,7 @@ __My work/*non work* experiences cover__ :-
 
 
 <details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Programming-Languages-Blue" />  </summary>
+    <summary> <img alt="Python" src="https://img.shields.io/badge/Programming-Languages-Blue" /> :sa: </summary>
         <p>
             :star2:  C++ <br />
             :star2:  STL <br />
@@ -16,7 +16,7 @@ __My work/*non work* experiences cover__ :-
 </details>
  
 <details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Scripting-Languages-yellow" />  </summary>
+    <summary> <img alt="Python" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
         <p>
             :heavy_check_mark:  Python<br />
             :heavy_check_mark:  NodeJS <br />
@@ -39,31 +39,7 @@ __My work/*non work* experiences cover__ :-
 </details>
 
 <details>
-    <summary>  <img alt="Python" src="https://img.shields.io/badge/IDEs-orange" /> </summary>
-        <p>
-            :star2:  gvim <br />
-            :star2:  MS Visual Code
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Version-Control-blue" /> </summary>
-        <p>
-            :star:  git <br /> 
-            :star:  bitbucket 
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Debugger-brown" /> </summary>
-        <p>
-            :heavy_check_mark:  MS Visual Studio C <br /> 
-            :star2:  GDB 
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Auxillary-stuff-lightgrey" /> </summary>
+    <summary> <img alt="Python" src="https://img.shields.io/badge/Auxillary-stuff-ff69b4" /> :link: </summary>
         <p>
             :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM, awscli-v1&v2 <br />
             :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
@@ -75,6 +51,31 @@ __My work/*non work* experiences cover__ :-
             :star2:  Technical documentation
         </p>
 </details>
+
+<details>
+    <summary>  <img alt="Python" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
+        <p>
+            :star2:  gvim <br />
+            :star2:  MS Visual Code
+        </p>
+</details>
+
+<details>
+    <summary> <img alt="Python" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
+        <p>
+            :heavy_check_mark:  MS Visual Studio C <br /> 
+            :star2:  GDB 
+        </p>
+</details>
+
+<details>
+    <summary> <img alt="Python" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
+        <p>
+            :star:  git <br /> 
+            :star:  bitbucket 
+        </p>
+</details>
+
 
 ****
 
