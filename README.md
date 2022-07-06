@@ -77,14 +77,97 @@ __My work/*non work* experiences cover__ :-
         </p>
 </details>
 
-
 ****
 
 📫 You're most welcome to browse and explore through any :notebook: by clicking on any active/legacy repo below
 
-:point_left: My LinkedIn profile will take you to some blogs that I have authored.
+<h3>Parallel threads :pencil2: :triangular_ruler: </h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/1aman1/Apple"><b> :video_game: Apple </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/cpp_2"><b> C++14/17 </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/EffectiveSTL"><b> Effective STL </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/Profiler-in-CXX"><b> Profiler-in-CXX </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/1aman1/cyl19t25"><b> Data Structure + LEETCODE Nest</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/AWS"><b>AWS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/beingMEAN"><b>NodeJS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
-👀 Any query/suggestion floats your mind, this is how you reach me - amangupta@outlook.com
+****
+<h3>My latest posts</h3>
+<ul>
+ :incoming_envelope: Blogs / Posts
+	
+<!-- BLOG-POST-LIST:START -->
+- [Git Merge Projects](https://medium.com/@1aman1/using-git-for-merging-two-different-projects-inclusive-of-commits-and-history-cd774cc805a9)
+- [ALB for redirection](https://medium.com/swlh/using-application-load-balancers-to-handle-multiple-domain-redirects-8e5077be3b28)
+- [More on Redis](https://medium.com/dlt-labs-publication/15-interesting-facts-about-redis-45e7e47e1a3b)
+<!-- BLOG-POST-LIST:END -->
+</ul>
+
+****
+
+
+Any query/suggestion floats your mind, :satellite: me - amangupta@outlook.com
 
 <!---
 1aman1/1aman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,4 +175,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3> :satellite: </h3> <a href="https://github.com/1aman1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/1aman1g" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/1aman1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/1aman1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/1aman1" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<h3>  </h3> <a href="https://github.com/1aman1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/1aman1g" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/1aman1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/1aman1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/1aman1" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
