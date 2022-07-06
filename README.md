@@ -8,11 +8,7 @@ __My work/*non work* experiences cover__ :-
 
 
 <details>
-<<<<<<< HEAD
     <summary> <img alt="Programming-Languages" src="https://img.shields.io/badge/Programming-Languages-Blue" /> :sa: </summary>
-=======
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Programming-Languages-Blue" /> :sa: </summary>
->>>>>>> 5a07f749435c793755f5150b3e1bc076c83dbe74
         <p>
             :star2:  C++ <br />
             :star2:  STL <br />
@@ -20,11 +16,7 @@ __My work/*non work* experiences cover__ :-
 </details>
  
 <details>
-<<<<<<< HEAD
     <summary> <img alt="Scripting-Languages" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
-=======
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
->>>>>>> 5a07f749435c793755f5150b3e1bc076c83dbe74
         <p>
             :heavy_check_mark:  Python<br />
             :heavy_check_mark:  NodeJS <br />
@@ -61,11 +53,7 @@ __My work/*non work* experiences cover__ :-
 </details>
 
 <details>
-<<<<<<< HEAD
     <summary>  <img alt="IDEs" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
-=======
-    <summary>  <img alt="Python" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
->>>>>>> 5a07f749435c793755f5150b3e1bc076c83dbe74
         <p>
             :star2:  gvim <br />
             :star2:  MS Visual Code
@@ -73,25 +61,15 @@ __My work/*non work* experiences cover__ :-
 </details>
 
 <details>
-<<<<<<< HEAD
     <summary> <img alt="Debugger" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
         <p>
             :star:  MS Visual Studio C <br /> 
-=======
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
-        <p>
-            :heavy_check_mark:  MS Visual Studio C <br /> 
->>>>>>> 5a07f749435c793755f5150b3e1bc076c83dbe74
             :star2:  GDB 
         </p>
 </details>
 
 <details>
-<<<<<<< HEAD
     <summary> <img alt="Version-Control" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
-=======
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
->>>>>>> 5a07f749435c793755f5150b3e1bc076c83dbe74
         <p>
             :star:  git <br /> 
             :star:  bitbucket 
