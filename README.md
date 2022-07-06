@@ -1,7 +1,7 @@
 👋 Hi, __I’m aman.__ 
 =============
 
-I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & maintaining pace to learn a lot more :airplane:. 
+I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
 ---------------
 
 __My work/*non work* experiences cover__ :-
