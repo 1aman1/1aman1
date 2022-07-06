@@ -1,5 +1,6 @@
-👋 Hi, __I’m aman.__ 
-=============
+# 👋 Hi, __I’m aman.__ 
+A North-indian with a taste of South, currently :computer: remote in Hyderabad.
+
 
 I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
 ---------------
@@ -89,3 +90,7 @@ __My work/*non work* experiences cover__ :-
 1aman1/1aman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<h3> :satellite: </h3> <a href="https://github.com/1aman1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/1aman1g" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/1aman1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/1aman1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
