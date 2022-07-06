@@ -1,22 +1,22 @@
 👋 Hi, __I’m aman.__ 
 =============
 
-I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & working into it for a lot more :airplane:. 
+I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & maintaining pace to learn a lot more :airplane:. 
 ---------------
 
 __My work/*non work* experiences cover__ :-
 
 
 <details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Programming-Languages-Blue" />  </summary>
+    <summary> <img alt="Programming-Languages" src="https://img.shields.io/badge/Programming-Languages-Blue" /> :sa: </summary>
         <p>
             :star2:  C++ <br />
             :star2:  STL <br />
-            :heavy_check_mark:  C</p>
+            :star:  C</p>
 </details>
  
 <details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Scripting-Languages-yellow" />  </summary>
+    <summary> <img alt="Scripting-Languages" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
         <p>
             :heavy_check_mark:  Python<br />
             :heavy_check_mark:  NodeJS <br />
@@ -27,43 +27,19 @@ __My work/*non work* experiences cover__ :-
 </details>
 
 <details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Technical-Concepts-blue" /> :books: </summary>
+    <summary> <img alt="Technical-Concepts" src="https://img.shields.io/badge/Technical-Concepts-blue" /> :books: </summary>
         <p>
             :star2:  Data Structure & Algorithms <br />
             :star:  Design Patterns <br />
-            :star2:  Operating system concepts <br /> 
+            :star:  Operating system concepts <br /> 
             :star:  Concurrent programming<br /> 
-            :star2:  Containerisation<br /> 
+            :star:  Containerisation<br /> 
             :star2:  Cloud computing concepts
         </p>
 </details>
 
 <details>
-    <summary>  <img alt="Python" src="https://img.shields.io/badge/IDEs-orange" /> </summary>
-        <p>
-            :star2:  gvim <br />
-            :star2:  MS Visual Code
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Version-Control-blue" /> </summary>
-        <p>
-            :star:  git <br /> 
-            :star:  bitbucket 
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Debugger-brown" /> </summary>
-        <p>
-            :heavy_check_mark:  MS Visual Studio C <br /> 
-            :star2:  GDB 
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Python" src="https://img.shields.io/badge/Auxillary-stuff-lightgrey" /> </summary>
+    <summary> <img alt="Auxillary-stuff" src="https://img.shields.io/badge/Auxillary-stuff-ff69b4" /> :link: </summary>
         <p>
             :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM, awscli-v1&v2 <br />
             :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
@@ -72,9 +48,34 @@ __My work/*non work* experiences cover__ :-
             :heavy_check_mark:  Nginx  <br />
             :heavy_check_mark:  Jenkins  <br />
             :heavy_check_mark:  JIRA  <br />
-            :star2:  Technical documentation
+            :star:  Technical documentation
         </p>
 </details>
+
+<details>
+    <summary>  <img alt="IDEs" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
+        <p>
+            :star2:  gvim <br />
+            :star2:  MS Visual Code
+        </p>
+</details>
+
+<details>
+    <summary> <img alt="Debugger" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
+        <p>
+            :star:  MS Visual Studio C <br /> 
+            :star2:  GDB 
+        </p>
+</details>
+
+<details>
+    <summary> <img alt="Version-Control" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
+        <p>
+            :star:  git <br /> 
+            :star:  bitbucket 
+        </p>
+</details>
+
 
 ****
 
