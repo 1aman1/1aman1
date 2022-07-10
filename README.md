@@ -2,7 +2,7 @@
 A North-indian with a taste of South, currently :computer: remote in Hyderabad, India.
 
 
-I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
+I've thorough experience on C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
 ---------------
 
 __My work/*non work* experiences cover__ :-
