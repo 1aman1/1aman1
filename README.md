@@ -1,5 +1,5 @@
 # 👋 Hi, __I’m aman.__ 
-A North-indian with a taste of South, currently :computer: remote in Hyderabad.
+A North-indian with a taste of South, currently :computer: remote in Hyderabad, India.
 
 
 I've thorough experience with C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
