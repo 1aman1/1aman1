@@ -79,7 +79,7 @@ __My work/*non work* experiences cover__ :-
 
 ****
 
-📫 You're most welcome to browse and explore through any :notebook: by clicking on any active/legacy repo below
+📫 You're most welcome to browse and explore through any of my :notebook: by clicking on any active/legacy projects.
 
 
 <h3>Parallel threads :pencil2: :triangular_ruler: </h3>
