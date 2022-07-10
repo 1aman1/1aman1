@@ -163,9 +163,8 @@ __My work/*non work* experiences cover__ :-
 </table>
 
 ****
-<h3>My latest posts :pushpin:</h3>
+<h3>My latest blogposts :pushpin:</h3>
 <ul>
- :incoming_envelope: Blogs / Posts
 	
 <!-- BLOG-POST-LIST:START -->
 - [Merge different projects on git](https://medium.com/@1aman1/using-git-for-merging-two-different-projects-inclusive-of-commits-and-history-cd774cc805a9)
