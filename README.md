@@ -2,7 +2,7 @@
 A North-indian with a taste of South, currently :computer: remote in Hyderabad, India.
 
 
-I've thorough experience on C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
+I've thorough experience on C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience an  lot more :airplane:. 
 ---------------
 
 __My work/*non work* experiences cover__ :-
@@ -168,16 +168,17 @@ __My work/*non work* experiences cover__ :-
  :incoming_envelope: Blogs / Posts
 	
 <!-- BLOG-POST-LIST:START -->
-- [Merge different projects over git](https://medium.com/@1aman1/using-git-for-merging-two-different-projects-inclusive-of-commits-and-history-cd774cc805a9)
-- [Application Load Balancer for request redirection](https://medium.com/swlh/using-application-load-balancers-to-handle-multiple-domain-redirects-8e5077be3b28)
-- [Redis Fun Facts](https://medium.com/dlt-labs-publication/15-interesting-facts-about-redis-45e7e47e1a3b)
+- [Git Merge Projects](https://medium.com/@1aman1/using-git-for-merging-two-different-projects-inclusive-of-commits-and-history-cd774cc805a9)
+- [ALB for redirection](https://medium.com/swlh/using-application-load-balancers-to-handle-multiple-domain-redirects-8e5077be3b28)
+- [More on Redis](https://medium.com/dlt-labs-publication/15-interesting-facts-about-redis-45e7e47e1a3b)
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
 ****
 
+For more [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) stuff, do fork projects of your interest.<br />
+Any appreciation/query/suggestion floats your mind, :satellite: me - amangupta@outlook.com 
 
-Any query/suggestion floats your mind, :satellite: me - amangupta@outlook.com
 
 <!---
 1aman1/1aman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
