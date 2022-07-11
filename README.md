@@ -99,7 +99,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/Apple"><b> :video_game: Apple </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -107,7 +107,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/cpp_2"><b> C++14/17 </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cpp_2?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -115,7 +115,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/EffectiveSTL"><b> Effective STL </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -123,7 +123,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/Profiler-in-CXX"><b> Profiler-in-CXX </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -131,7 +131,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/cyl19t25"><b> Data Structure + LEETCODE Nest</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -139,7 +139,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -155,7 +155,7 @@ __My work/*non work* experiences cover__ :-
       <td><a href="https://github.com/1aman1/beingMEAN"><b>NodeJS</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
     </tr>
