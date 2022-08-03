@@ -2,10 +2,10 @@
 A North-indian with a taste of South, currently :computer: remote in Hyderabad, India.
 
 
-I've thorough experience on C++, Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
+I've thorough experience on Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
 ---------------
 
-__My work/*non work* experiences cover__ :-
+__My work/*non-work* experiences include but are not limited to__ :-
 
 
 <details>
@@ -20,7 +20,7 @@ __My work/*non work* experiences cover__ :-
     <summary> <img alt="Scripting-Languages" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
         <p>
             :heavy_check_mark:  Python<br />
-            :heavy_check_mark:  NodeJS <br />
+            :star:  NodeJS <br />
             :heavy_check_mark:  bash <br />
             :heavy_check_mark:  awk <br /> 
             :heavy_check_mark:  sed 
@@ -31,7 +31,7 @@ __My work/*non work* experiences cover__ :-
     <summary> <img alt="Technical-Concepts" src="https://img.shields.io/badge/Technical-Concepts-blue" /> :books: </summary>
         <p>
             :star2:  Data Structure & Algorithms <br />
-            :star:  Design Patterns <br />
+            :star:  Design Patterns for Healthy and Elegant Code <br />
             :star:  Operating system concepts <br /> 
             :star:  Concurrent programming<br /> 
             :star:  Containerisation<br /> 
@@ -186,3 +186,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>  </h3> <a href="https://github.com/1aman1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/1aman1g" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/1aman1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/1aman1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/1aman1" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+
+
+<h3>My Website-cum-portfolio</h3>
+<p><a href = "https://sites.google.com/view/1aman1/"><img alt="My website-Portfolio" src="https://img.shields.io/badge/My%20Website-Click%20Here-green"</a>
+</p>
