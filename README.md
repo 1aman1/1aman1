@@ -128,7 +128,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/1aman1/cyl19t25"><b> Data Structure + LEETCODE Nest</b></a></td>
+      <td><a href="https://github.com/1aman1/cyl19t25"><b> Data Structures + LEETCODE Nest</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
@@ -152,12 +152,20 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/beingMEAN"><b>NodeJS</b></a></td>
+      <td><a href="https://github.com/1aman1/beingMEAN"><b>JS + Node</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/tty"><b>Linux</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -188,6 +196,6 @@ You can click the Preview link to take a look at your changes.
 <h3>  </h3> <a href="https://github.com/1aman1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/1aman1g" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/1aman1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/1aman1" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/1aman1" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 
 
-<h3>My Website-cum-portfolio</h3>
+<h3>My Website/Portfolio</h3>
 <p><a href = "https://sites.google.com/view/1aman1/"><img alt="My website-Portfolio" src="https://img.shields.io/badge/My%20Website-Click%20Here-green"</a>
 </p>
