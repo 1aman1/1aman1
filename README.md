@@ -42,7 +42,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Auxillary-stuff" src="https://img.shields.io/badge/Auxillary-stuff-ff69b4" /> :link: </summary>
         <p>
-            :star2:  AWS: EC2, ELB, ROUTE53, ECR, ADLM, S3, IAM, awscli-v1&v2 <br />
+            :star2:  AWS: IAM, VPC, EC2/SG/EBS, Snapshots & ADLM, ECR, ELB, Route53, S3, awscli-v1/v2 <br />
             :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
             :heavy_check_mark:  Docker :heavy_plus_sign: Kubernetes <br />
             :heavy_check_mark:  MongoDB, Postgresql, Redis  <br />
