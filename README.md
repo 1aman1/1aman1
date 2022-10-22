@@ -44,6 +44,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
         <p>
             :star2:  AWS: IAM, VPC, EC2/SG/EBS, Snapshots & ADLM, ECR, ELB, Route53, S3, awscli-v1/v2 <br />
             :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
+            :heavy_check_mark:  Ansible <br />
             :heavy_check_mark:  Docker :heavy_plus_sign: Kubernetes <br />
             :heavy_check_mark:  MongoDB, Postgresql, Redis  <br />
             :heavy_check_mark:  Nginx  <br />
@@ -128,12 +129,12 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/1aman1/cyl19t25"><b> Data Structures + LEETCODE Nest</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cyl19t25?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/1aman1/problem-solving"><b> ONESTOP Problem-solving</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
@@ -182,7 +183,8 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </ul>
 
 ****
-
+Primarily this repo serves as a quick reference for different problems, approaches, illustrations and related things for me.
+But why to keep all this to isolated from the world, the thought has changed now :mortar_board:.<br /><br />
 For more [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) stuff, do fork projects of your interest.<br />
 Any appreciation/query/suggestion floats your mind, :satellite: me - amangupta@outlook.com 
 
