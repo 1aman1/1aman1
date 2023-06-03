@@ -1,8 +1,8 @@
 # 👋 Hi, __I’m aman.__ 
-A North-indian with a taste of South, currently :computer: remote in Hyderabad, India.
+A North-indian with a taste of South, currently :computer: in Pune, India.
 
 
-I've thorough experience on Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
+I've developed thorough grasp on Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
 ---------------
 
 __My work/*non-work* experiences include but are not limited to__ :-
@@ -11,16 +11,16 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Programming-Languages" src="https://img.shields.io/badge/Programming-Languages-Blue" /> :sa: </summary>
         <p>
-            :star2:  C++ <br />
-            :star2:  STL <br />
-            :star:  C</p>
+            :star2:  Advanced C++ / STL <br />
+            :star:  C <br />
+            :heavy_check_mark:  NodeJS <br />
+        </p>
 </details>
  
 <details>
     <summary> <img alt="Scripting-Languages" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
         <p>
             :heavy_check_mark:  Python<br />
-            :star:  NodeJS <br />
             :heavy_check_mark:  bash <br />
             :heavy_check_mark:  awk <br /> 
             :heavy_check_mark:  sed 
@@ -31,7 +31,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
     <summary> <img alt="Technical-Concepts" src="https://img.shields.io/badge/Technical-Concepts-blue" /> :books: </summary>
         <p>
             :star2:  Data Structure & Algorithms <br />
-            :star:  Design Patterns for Healthy and Elegant Code <br />
+            :star:  Patterns for sustainable designs <br />
             :star:  Operating system concepts <br /> 
             :star:  Concurrent programming<br /> 
             :star:  Containerisation<br /> 
@@ -58,15 +58,18 @@ __My work/*non-work* experiences include but are not limited to__ :-
     <summary>  <img alt="IDEs" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
         <p>
             :star2:  gvim <br />
-            :star2:  MS Visual Code
+            :star2:  MS Visual Code <br /> 
+            :star:  Android Visual Code <br /> 
+            :heavy_check_mark:  X code 
         </p>
 </details>
 
 <details>
     <summary> <img alt="Debugger" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
         <p>
-            :star:  MS Visual Studio C <br /> 
             :star2:  GDB 
+            :star:  MS Visual Studio <br /> 
+            :star:  Android Studio <br /> 
         </p>
 </details>
 
@@ -75,6 +78,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
         <p>
             :star:  git <br /> 
             :star:  bitbucket 
+            :star:  perforce 
         </p>
 </details>
 
@@ -172,7 +176,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </table>
 
 ****
-<h3>My latest blogposts :pushpin:</h3>
+<h3>My blogposts :pushpin:</h3>
 <ul>
 	
 <!-- BLOG-POST-LIST:START -->
@@ -183,7 +187,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </ul>
 
 ****
-Primarily this repo serves as a quick reference for different problems, approaches, illustrations and related things for me.
+This repo primarily served as a quick reference for different problems, approaches, illustrations and related things for me.
 But why to keep all this to isolated from the world, the thought has changed now :mortar_board:.<br /><br />
 For more [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) stuff, do fork projects of your interest.<br />
 Any appreciation/query/suggestion floats your mind, :satellite: me - amangupta@outlook.com 
