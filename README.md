@@ -33,6 +33,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
             :star2:  Data Structure & Algorithms <br />
             :star:  Patterns for sustainable designs <br />
             :star:  Operating system concepts <br /> 
+            :heavy_check_mark:  System Design <br /> 
             :star:  Concurrent programming<br /> 
             :star:  Containerisation<br /> 
             :star2:  Cloud computing concepts
@@ -67,7 +68,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Debugger" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
         <p>
-            :star2:  GDB 
+            :star2:  GDB <br /> 
             :star:  MS Visual Studio <br /> 
             :star:  Android Studio <br /> 
         </p>
@@ -76,8 +77,8 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Version-Control" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
         <p>
-            :star:  git <br /> 
-            :star:  bitbucket 
+            :star:  github <br /> 
+            :star:  bitbucket <br /> 
             :star:  perforce 
         </p>
 </details>
@@ -125,20 +126,20 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/Profiler-in-CXX"><b> Profiler-in-CXX </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Profiler-in-CXX?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/1aman1/dockerized-app-cpp"><b> Dockerized-C++ app </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/1aman1/problem-solving"><b> ONESTOP Problem-solving</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/problem-solving?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/1aman1/code-road"><b> Problem-solving</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
@@ -157,7 +158,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/beingMEAN"><b>JS + Node</b></a></td>
+      <td><a href="https://github.com/1aman1/beingMEAN"><b> Node + Express </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
