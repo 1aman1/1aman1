@@ -1,5 +1,5 @@
 # 👋 Hi, __I’m aman.__ 
-A North-indian with a taste of South, currently :computer: in Pune, India.
+A North-indian with a taste of South, currently :computer: in Bangalore, India.
 
 
 I've developed thorough grasp on Data Structures & Algorithms, Linux, Cloud, Containerisation, Automation & curling up pace to experience a lot more :airplane:. 
@@ -11,8 +11,8 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Programming-Languages" src="https://img.shields.io/badge/Programming-Languages-Blue" /> :sa: </summary>
         <p>
-            :star2:  Advanced C++ / STL <br />
-            :star:  C <br />
+            :star:  Advanced C++ / STL <br />
+            :heavy_check_mark:  C <br />
             :heavy_check_mark:  NodeJS <br />
         </p>
 </details>
@@ -30,56 +30,49 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Technical-Concepts" src="https://img.shields.io/badge/Technical-Concepts-blue" /> :books: </summary>
         <p>
-            :star2:  Data Structure & Algorithms <br />
+            :star:  Data Structure & Algorithms <br />
             :star:  Patterns for sustainable designs <br />
-            :star:  Operating system concepts <br /> 
-            :heavy_check_mark:  System Design <br /> 
-            :star:  Concurrent programming<br /> 
-            :star:  Containerisation<br /> 
-            :star2:  Cloud computing concepts
+            :heavy_check_mark:  Operating system concepts <br /> 
+            :star:  System Design <br /> 
+            :heavy_check_mark:  Concurrent programming<br /> 
+            :heavy_check_mark:  Containerisation<br /> 
+            :star:  Cloud computing concepts
         </p>
 </details>
 
 <details>
     <summary> <img alt="Auxillary-stuff" src="https://img.shields.io/badge/Auxillary-stuff-ff69b4" /> :link: </summary>
         <p>
-            :star2:  AWS: IAM, VPC, EC2/SG/EBS, Snapshots & ADLM, ECR, ELB, Route53, S3, awscli-v1/v2 <br />
-            :heavy_check_mark:  Amazon-linux2, Ubuntu <br />
+            :star:  AWS: IAM, VPC, EC2/SG/EBS, Snapshots & ADLM, ECR, ELB, Route53, S3, awscli-v1/v2 <br />
+            :star:  Amazon-linux2, Ubuntu <br />
             :heavy_check_mark:  Ansible <br />
-            :heavy_check_mark:  Docker :heavy_plus_sign: Kubernetes <br />
+            :star:  Docker :heavy_plus_sign: Kubernetes <br />
             :heavy_check_mark:  MongoDB, Postgresql, Redis  <br />
-            :heavy_check_mark:  Nginx  <br />
-            :heavy_check_mark:  Jenkins  <br />
+            :star:  Nginx  <br />
+            :star:  Jenkins  <br />
             :heavy_check_mark:  JIRA  <br />
-            :star:  Technical documentation
+            :heavy_check_mark:  Technical documentation
         </p>
 </details>
 
 <details>
-    <summary>  <img alt="IDEs" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
+    <summary>  <img alt="IDEs/Debugger" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
         <p>
-            :star2:  gvim <br />
-            :star2:  MS Visual Code <br /> 
-            :star:  Android Visual Code <br /> 
+            :star:  gvim <br />
+            :star:  Visual Studio Code <br /> 
+            :star:  GDB <br /> 
+            :heavy_check_mark:  Visual Studio <br /> 
+            :heavy_check_mark:  Android Studio <br /> 
             :heavy_check_mark:  X code 
-        </p>
-</details>
-
-<details>
-    <summary> <img alt="Debugger" src="https://img.shields.io/badge/Debugger-brown" /> :wrench: </summary>
-        <p>
-            :star2:  GDB <br /> 
-            :star:  MS Visual Studio <br /> 
-            :star:  Android Studio <br /> 
         </p>
 </details>
 
 <details>
     <summary> <img alt="Version-Control" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
         <p>
-            :star:  github <br /> 
-            :star:  bitbucket <br /> 
-            :star:  perforce 
+            :heavy_check_mark:  github <br /> 
+            :heavy_check_mark:  bitbucket <br /> 
+            :heavy_check_mark:  perforce 
         </p>
 </details>
 
@@ -93,7 +86,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
   <thead align="center">
     <tr border: none;>
       <td><b>:books: Projects</b></td>
-      <td><b>:star: Stars</b></td>
+      <td><b>:heavy_check_mark: Stars</b></td>
       <td><b>:bookmark_tabs: Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>:chart_with_upwards_trend: Activity</b></td>
