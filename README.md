@@ -56,7 +56,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </details>
 
 <details>
-    <summary>  <img alt="IDEs/Debugger" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
+    <summary>  <img alt="IDEs-Debuggers" src="https://img.shields.io/badge/IDEs-orange" /> :memo: </summary>
         <p>
             :star:  gvim <br />
             :star:  Visual Studio Code <br /> 
