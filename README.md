@@ -182,7 +182,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 
 ****
 This repo primarily served as a quick reference for different problems, approaches, illustrations and related things for me.
-But why to keep all this to isolated from the world, the thought has changed now :mortar_board:.<br /><br />
+But why to keep all this to isolated from the community, hence with the changed thought, keeping everything here in one place :mortar_board:.<br /><br />
 For more [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) stuff, do fork projects of your interest.<br />
 Any appreciation/query/suggestion floats your mind, :satellite: me - amangupta@outlook.com 
 
