@@ -61,6 +61,8 @@ __My work/*non-work* experiences include but are not limited to__ :-
             :star:  gvim <br />
             :star:  Visual Studio Code <br /> 
             :star:  GDB <br /> 
+            :heavy_check_mark:  RemoteNG <br /> 
+            :heavy_check_mark:  Mobaxterm <br /> 
             :heavy_check_mark:  Visual Studio <br /> 
             :heavy_check_mark:  Android Studio <br /> 
             :heavy_check_mark:  X code 
@@ -70,7 +72,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 <details>
     <summary> <img alt="Version-Control" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
         <p>
-            :heavy_check_mark:  github <br /> 
+            :heavy_check_mark:  git <br /> 
             :heavy_check_mark:  bitbucket <br /> 
             :heavy_check_mark:  perforce 
         </p>
@@ -95,14 +97,6 @@ __My work/*non-work* experiences include but are not limited to__ :-
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/1aman1/Apple"><b> :video_game: Apple </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/1aman1/cpp"><b> Modern C++11/14 </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cpp?style=flat-square&labelColor=343b41"/></td>
@@ -111,20 +105,20 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cpp?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/EffectiveSTL"><b> Effective STL </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/EffectiveSTL?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/1aman1/dockerized-app-cpp"><b> Dockerized-C++ app </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/1aman1/CppAuthenticator"><b> CppAuthenticator </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/1aman1/code-road"><b> Problem-solving</b></a></td>
@@ -159,12 +153,20 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/tty"><b>Linux</b></a></td>
+      <td><a href="https://github.com/1aman1/tty"><b>Linux (diff flavors) </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/Apple"><b> Apple :video_game: </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/Apple?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -181,8 +183,8 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </ul>
 
 ****
-This repo primarily served as a quick reference for different problems, approaches, illustrations and related things for me.
-But why to keep all this to isolated from the community, hence with the changed thought, keeping everything here in one place :mortar_board:.<br /><br />
+This repo primarily served as a quick reference for different problems/approaches/illustrations and related stuff.
+But why to keep all this to isolated from the community, with the changed thought, keeping everything here in one place :mortar_board:.<br /><br />
 For more [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) stuff, do fork projects of your interest.<br />
 Any appreciation/query/suggestion floats your mind, :satellite: me - amangupta@outlook.com 
 
