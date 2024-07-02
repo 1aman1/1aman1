@@ -20,7 +20,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </details>
  
 <details>
-    <summary> <img alt="Scripting" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
+    <summary> <img alt="Scripting" src="https://img.shields.io/badge/Scripting-yellow" /> :sa: </summary>
         <p>
             :heavy_check_mark:  bash <br />
             :heavy_check_mark:  awk <br /> 
