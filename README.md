@@ -13,14 +13,15 @@ __My work/*non-work* experiences include but are not limited to__ :-
         <p>
             :star:  Advanced C++ / STL <br />
             :heavy_check_mark:  C <br />
+            :heavy_check_mark:  Golang specialization <br />
             :heavy_check_mark:  NodeJS <br />
+            :heavy_check_mark:  Python specialization(WIP)<br />
         </p>
 </details>
  
 <details>
-    <summary> <img alt="Scripting-Languages" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
+    <summary> <img alt="Scripting" src="https://img.shields.io/badge/Scripting-Languages-yellow" /> :sa: </summary>
         <p>
-            :heavy_check_mark:  Python<br />
             :heavy_check_mark:  bash <br />
             :heavy_check_mark:  awk <br /> 
             :heavy_check_mark:  sed 
@@ -73,7 +74,6 @@ __My work/*non-work* experiences include but are not limited to__ :-
     <summary> <img alt="Version-Control" src="https://img.shields.io/badge/Version-Control-blueviolet " /> :open_file_folder: </summary>
         <p>
             :heavy_check_mark:  git <br /> 
-            :heavy_check_mark:  bitbucket <br /> 
             :heavy_check_mark:  perforce 
         </p>
 </details>
