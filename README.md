@@ -120,30 +120,6 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/1aman1/code-road"><b> Problem-solving</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/1aman1/AWS"><b>AWS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
-    </tr>
     <tr>
       <td><a href="https://github.com/1aman1/beingMEAN"><b> Node + Express </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
@@ -153,12 +129,44 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/1aman1/code-road"><b> Problem-solving</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/AWS"><b>Amazon Web Services</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/1aman1/tty"><b>Linux (diff flavors) </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/cryptography"><b>Cryptography </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/1aman1/Apple"><b> Apple :video_game: </b></a></td>
@@ -172,7 +180,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 </table>
 
 ****
-<h3>My blogposts :pushpin:</h3>
+<h3>My blogposts archive :pushpin:</h3>
 <ul>
 	
 <!-- BLOG-POST-LIST:START -->
@@ -184,7 +192,7 @@ __My work/*non-work* experiences include but are not limited to__ :-
 
 ****
 This repo primarily served as a quick reference for different problems/approaches/illustrations and related stuff.
-But why to keep all this to isolated from the community, with the changed thought, keeping everything here in one place :mortar_board:.<br /><br />
+But why to keep all this to isolated from the community, with the changed thought, I'm putting everything here in one place :mortar_board:.<br /><br />
 For more [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) stuff, do fork projects of your interest.<br />
 Any appreciation/query/suggestion floats your mind, :satellite: me - amangupta@outlook.com 
 
