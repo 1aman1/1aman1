@@ -97,6 +97,30 @@ __My work/*non-work* experiences include but are not limited to__ :-
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/1aman1/protobuf"><b>protobuf</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/protobuf?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/protobuf?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/protobuf?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/protobuf?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/protobuf?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/code-road"><b> Problem-solving</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/1aman1/designPatterns"><b> Design Patterns</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/designPatterns?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/designPatterns?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/designPatterns?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/designPatterns?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/designPatterns?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/1aman1/cpp"><b> Modern C++11/14 </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cpp?style=flat-square&labelColor=343b41"/></td>
@@ -105,20 +129,20 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cpp?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/1aman1/cpp-books"><b> Cpp books that I conform</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cpp-books?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cpp-books?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cpp-books?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/cpp-books?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cpp-books?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/1aman1/dockerized-app-cpp"><b> Dockerized-C++ app </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/dockerized-app-cpp?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/1aman1/CppAuthenticator"><b> CppAuthenticator </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/CppAuthenticator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/1aman1/beingMEAN"><b> Node + Express </b></a></td>
@@ -129,22 +153,6 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/beingMEAN?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/algorithms"><b>Algorithms</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/algorithms?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/1aman1/code-road"><b> Problem-solving</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/code-road?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/1aman1/AWS"><b>Amazon Web Services</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
@@ -153,20 +161,20 @@ __My work/*non-work* experiences include but are not limited to__ :-
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/AWS?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1aman1/tty"><b>Linux (diff flavors) </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/1aman1/cryptography"><b>Cryptography </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/cryptography?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/1aman1/tty"><b>Linux (diff flavors) </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/last-commit/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1aman1/tty?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/1aman1/Apple"><b> Apple :video_game: </b></a></td>
